@@ -2,11 +2,13 @@
 
 Hello everybody out there using seedtool!
 
-Since I've discovered Blockchain Commons and its projects like ByteWords,
-seedtool, UR, and SSKR, I've been fascinated by the clarity and simplicity of
-the ideas. These are tools that I've long wanted to have. Seedtool in
-particular would be fantastic to safely generate secret key shares, if only I
-could be confident about running it securely.
+Since I've discovered [Blockchain
+Commons](https://github.com/BlockchainCommons) and its projects like ByteWords,
+[seedtool](https://github.com/BlockchainCommons/seedtool-cli), UR, and SSKR,
+I've been fascinated by the clarity and simplicity of the ideas. These are
+tools that I've long wanted to have. Seedtool in particular would be fantastic
+to safely generate secret key shares, if only I could be confident about
+running it securely.
 
 What I want is a seedtool that anyone can easily run on an airgapped device.
 That is why I am proposing to **build a seedtool that runs in a standalone
