@@ -40,3 +40,8 @@ Besides the Blockchain Commons projects, another source of inspiration for this
 is https://github.com/iancoleman/bip39 -- That tool handles the mnemonic ->
 address conversion, whereas my proposed seedtool would handle seed -> mnemonic
 and seed <-> shares.
+
+## Credits
+
+Page background photo by [Markus Spiske](https://unsplash.com/@markusspiske)" on [Unsplash](https://unsplash.com/s/photos/numbers-screen).
+  
