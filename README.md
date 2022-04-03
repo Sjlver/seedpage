@@ -1,5 +1,11 @@
 # seedpage -- A seedtool that runs in the browser.
 
+## seedpage is now seedtool.info
+
+Most of the contents of this repository have moved: https://github.com/BlockchainCommons/seedtool.info
+
+## Introduction
+
 Hello everybody out there using seedtool!
 
 Since I've discovered [Blockchain
